@@ -1,2 +1,2 @@
 # MouseClick
-This project ditate a mouse clicked whether it is in an element or outside.
+This project detech a mouse clicked whether it is in an element or outside.
