@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    width:60%;
+    height:50vh;
+    margin:auto;
+    background-color:#0f4c5c ;
+    color: white;
+}
+
+.title{
+    font-size:3.5rem;
+    padding-top:20px;
+    padding-left: 30px;
+}
+.display{
+    font-size:3.5rem;
+    padding-top:20px;
+    padding-left: 30px;
+}
